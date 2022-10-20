@@ -1,0 +1,57 @@
+.h50{
+    height: 50px;
+}
+.h250{
+    height: 250px;
+}
+.h80{
+    height: 80px;
+}
+
+.w450{
+    width: 450px;
+}
+.w80{
+    width: 80px;
+}
+.brdr10{
+    border-radius: 10px;
+}
+.bgSil{
+    background: silver;
+}
+.bgMid{
+    background: midnightblue;
+}
+.box{
+   background: lightseagreen;
+    display: inline-flex;
+    margin: 20px;
+    position: relative;
+    top: -140px;
+    left: 50px;
+
+}
+.mini{
+    height: 20px;
+    width: 60px;
+    position: relative;
+    top: 20px;
+    left: 30px;
+}
+.fa-bars {
+
+    justify-content: end;
+    flex-direction: row;
+    position: relative;
+    left: 350px;
+    display: inline-flex;
+}
+.fa-magnifying-glass{
+
+    justify-content: end;
+    flex-direction: row;
+    position: relative;
+    left: 300px;
+    display: inline-flex;
+}
