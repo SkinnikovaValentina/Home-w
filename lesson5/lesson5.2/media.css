@@ -1,0 +1,54 @@
+@media screen and ( min-width: 0) and ( max-width: 750px)
+{
+    *{
+        margin: 1%;
+    }
+    .container{
+        width: 550px;
+        height: 600px;
+        background: mediumseagreen;
+        display: flex;
+        margin: 1%;
+    }
+
+
+    .blockA{
+        width: 99%;
+        height: 50%;
+        background: silver;
+    }
+
+    .blockF{
+        width: 99%;
+        height: 16%;
+        background:silver;
+        flex-direction: column;
+    }
+
+    .box{
+        width: 99%;
+        height: 26%;
+        display: flex;
+
+    }
+    .blockB{
+        width: 99%;
+        height: 40%;
+        background: silver;
+    }
+    .block{
+        width: 99%;
+        height: 40%;
+        background: mediumseagreen;
+        display: flex;
+    }
+
+    .blockC{
+        width: 61%;
+        height: 99%;
+        background: silver;
+
+    }
+}
+
+

@@ -1,0 +1,46 @@
+*{
+    margin: 1%;
+}
+.container{
+    width: 750px;
+    height: 600px;
+    background: mediumseagreen;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blockA{
+    width: 99%;
+    height: 50%;
+    background: silver;
+}
+
+.blockF{
+    width: 30%;
+    height:40%;
+    background:silver;
+}
+
+.box{
+    width: 64%;
+    height: 46%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.blockB{
+    width: 95%;
+    height: 40%;
+    background: silver;
+}
+.block{
+    width: 95%;
+    height: 40%;
+    background: mediumseagreen;
+    display: flex;
+}
+.blockC{
+    width: 31%;
+    height: 99%;
+    background: silver;
+
+}
