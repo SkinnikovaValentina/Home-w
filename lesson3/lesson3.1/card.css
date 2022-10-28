@@ -18,7 +18,6 @@
     color: black;
     box-sizing: border-box;
     text-align: center;
-    padding: 20px 25px 5px;
     font-size: 25px;
 }
 .description{
@@ -28,8 +27,8 @@
     text-align: center;
     font-size: 20px;
 }
-.round{
-    background: white;
+.round {
+   ;
     width: 70px;
     height: 70px;
     border-radius: 50%;
@@ -37,6 +36,9 @@
     position: relative;
     top: -40px;
     left: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .a{
     height: 30px;
@@ -44,5 +46,6 @@
     text-decoration: lightblue;
     color: gray;
     border: 1px solid black;
-    font-size: 25px;
+    font-size: 15px;
 }
+
